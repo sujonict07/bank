@@ -19,10 +19,11 @@ project-Folder:
   |         |------settings.py
   |         |----- urls.py
   |         |----- wsgi.py
-  |         |----- view.py
   |         |------__init__.py
   |-------templates
+  |-------static
   |-------data
+  |-------media
   |-------.gitignore
   |-------README.md
   |-------requirements.txt
