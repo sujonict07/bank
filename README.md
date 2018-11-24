@@ -20,6 +20,7 @@ project-Folder:
   |         |----- urls.py
   |         |----- wsgi.py
   |         |------__init__.py
+  |-------manage.py
   |-------templates
   |-------static
   |-------data
